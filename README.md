@@ -1,2 +1,2 @@
-# SVG-Divider-Gallery-
+# SVG-Divider-Gallery
 A set of SVG dividers
